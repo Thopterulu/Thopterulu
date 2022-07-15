@@ -143,9 +143,6 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 
 - [x] Code::Blocks
 
-- [ ] [DataGrip](https://www.jetbrains.com/fr-fr/datagrip/)
-
-- [ ] [GoLand](https://www.jetbrains.com/fr-fr/go/)
 
 ### Light IDEs
 
