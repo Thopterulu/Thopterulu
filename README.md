@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 Just another python developper shifting to cybersec.
+![radical ed](2006521.jpg)
