@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just another python developper shifting to cybersec.
+Just another python developper...
 ![radical ed](2006521.jpg)
