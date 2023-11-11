@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://www.codewars.com/users/Thopterulu/badges/large)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thopterulu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![radical ed](2006521.jpg)
 Just another python developper...
