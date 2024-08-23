@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thopterulu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="2006521.jpg" alt="drawing" width="200"/>
-Just another python developper...
