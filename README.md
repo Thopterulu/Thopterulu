@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently refreshing my cpp knowledge, you can find my knowledge roadmaps [here](https://github.com/Thopterulu/Personnal_Roadmap)!
 
-![](https://www.codewars.com/users/Thopter/badges/large)
+<a href="https://www.codewars.com/users/Thopter">![](https://www.codewars.com/users/Thopter/badges/large)</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thopterulu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
