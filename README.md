@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I made a website about tips, tricks and stuff on my [https://thopterulu.github.io/](https://thopterulu.github.io/) page, it's very much alpha for now.
 - 🌱 I’m currently refreshing my cpp knowledge, you can find my knowledge roadmaps [here](https://github.com/Thopterulu/Personnal_Roadmap)!
 
 <a href="https://www.codewars.com/users/Thopter">![](https://www.codewars.com/users/Thopter/badges/large)</a>
