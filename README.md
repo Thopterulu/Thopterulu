@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Developping.....;Playing+video+games+:);Loosing+money+on+mtg...)](https://git.io/typing-svg)
 
 <!--
 **Thopterulu/Thopterulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
