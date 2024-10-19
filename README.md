@@ -3,6 +3,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaumekgrs/)
 
+## 🌱 LifeQuest:
 - I made a website about tips, tricks and stuff on my [https://thopterulu.github.io/](https://thopterulu.github.io/) page, it's very much alpha for now.
 - 🌱 I’m currently refreshing my cpp knowledge, you can find my knowledge roadmaps [here](https://github.com/Thopterulu/Personnal_Roadmap)!
 
