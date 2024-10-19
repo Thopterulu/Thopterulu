@@ -9,5 +9,6 @@
 
 <a href="https://www.codewars.com/users/Thopter">![](https://www.codewars.com/users/Thopter/badges/large)</a>
 
+## 📊 Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thopterulu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
