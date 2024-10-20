@@ -16,4 +16,56 @@
 <a href="https://www.codewars.com/users/Thopter">![](https://www.codewars.com/api/v1/users/Thopter)</a>
 ## Codewars
 ```json
-{"id":"5f58954218330d00334010f9","username":"Thopter","name":"Guillaume","honor":544,"clan":"","leaderboardPosition":102922,"skills":["python","lua","c","c++"],"ranks":{"overall":{"rank":-5,"name":"5 kyu","color":"yellow","score":544},"languages":{"python":{"rank":-5,"name":"5 kyu","color":"yellow","score":483},"java":{"rank":-8,"name":"8 kyu","color":"white","score":2},"lua":{"rank":-8,"name":"8 kyu","color":"white","score":2},"cpp":{"rank":-7,"name":"7 kyu","color":"white","score":61}}},"codeChallenges":{"totalAuthored":0,"totalCompleted":107}}```
+{
+  "id": "5f58954218330d00334010f9",
+  "username": "Thopter",
+  "name": "Guillaume",
+  "honor": 544,
+  "clan": "",
+  "leaderboardPosition": 102922,
+  "skills": [
+    "python",
+    "lua",
+    "c",
+    "c++"
+  ],
+  "ranks": {
+    "overall": {
+      "rank": -5,
+      "name": "5 kyu",
+      "color": "yellow",
+      "score": 544
+    },
+    "languages": {
+      "python": {
+        "rank": -5,
+        "name": "5 kyu",
+        "color": "yellow",
+        "score": 483
+      },
+      "java": {
+        "rank": -8,
+        "name": "8 kyu",
+        "color": "white",
+        "score": 2
+      },
+      "lua": {
+        "rank": -8,
+        "name": "8 kyu",
+        "color": "white",
+        "score": 2
+      },
+      "cpp": {
+        "rank": -7,
+        "name": "7 kyu",
+        "color": "white",
+        "score": 61
+      }
+    }
+  },
+  "codeChallenges": {
+    "totalAuthored": 0,
+    "totalCompleted": 107
+  }
+}
+\n```
