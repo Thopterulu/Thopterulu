@@ -17,7 +17,6 @@
 ## Codewars
 ```json
 {
-  "id": "5f58954218330d00334010f9",
   "username": "Thopter",
   "name": "Guillaume",
   "honor": 544,
