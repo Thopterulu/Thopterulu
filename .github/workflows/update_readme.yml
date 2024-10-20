@@ -20,6 +20,11 @@ jobs:
         # Récupère les données JSON depuis l'API
         curl -s https://www.codewars.com/api/v1/users/Thopter > data.json
 
+    - name: Remove id field and format JSON
+      run: |
+        # Supprime le champ 'id' et formate le JSON avec jq
+        jq 'del(.id)' data.json > formatted_data.json
+
     - name: Update README
       run: |
         # Lis le fichier README.md dans une variable
@@ -36,7 +41,8 @@ jobs:
         echo "## Codewars" >> README.md
         echo '```json' >> README.md
         echo "$formatted_json" >> README.md
-        echo '\n```' >> README.md
+        echo '' >> README.md
+        echo '```' >> README.md
 
     - name: Commit changes
       run: |
