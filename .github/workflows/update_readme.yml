@@ -34,7 +34,7 @@ jobs:
         updated_readme=$(echo "$readme" | sed '/## Codewars/,$d')
 
         # Formatte le JSON en multiligne avec jq
-        formatted_json=$(jq . data.json)
+        formatted_json=$(cat formatted_data.json)
 
         # Ajoute la balise et le contenu JSON
         echo "$updated_readme" > README.md
