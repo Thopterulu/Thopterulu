@@ -1,0 +1,41 @@
+name: Update README with API Data
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Exécution chaque semaine (dimanche à minuit)
+  workflow_dispatch:  # Permet de déclencher manuellement
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Fetch API Data
+      run: |
+        # Récupère les données JSON depuis l'API
+        curl -s https://www.codewars.com/api/v1/users/Thopter > data.json
+
+    - name: Update README
+      run: |
+        # Lis le fichier README.md dans une variable
+        readme=$(cat README.md)
+        
+        # Coupe tout ce qui suit la balise ## Codewars
+        updated_readme=$(echo "$readme" | sed '/## Codewars/,$d')
+
+        # Ajoute la balise et le contenu JSON
+        echo "$updated_readme" > README.md
+        echo "## Codewars" >> README.md
+        echo '```json' >> README.md
+        cat data.json >> README.md
+        echo '```' >> README.md
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Mise à jour des données Codewars dans le README"
+        git push
