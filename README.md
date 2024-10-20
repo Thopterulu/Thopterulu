@@ -7,9 +7,10 @@
 - I made a website about tips, tricks and stuff on my [https://thopterulu.github.io/](https://thopterulu.github.io/) page, it's very much alpha for now.
 - 🌱 I’m currently refreshing my cpp knowledge, you can find my knowledge roadmaps [here](https://github.com/Thopterulu/Personnal_Roadmap)!
 
-<a href="https://www.codewars.com/users/Thopter">![](https://www.codewars.com/users/Thopter/badges/large)</a>
 
 ## 📊 Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thopterulu&layout=donut)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thopterulu\&rank_icon=github)
 
+<a href="https://www.codewars.com/users/Thopter">![](https://www.codewars.com/users/Thopter/badges/large)</a>
 
+<a href="https://www.codewars.com/users/Thopter">![](https://www.codewars.com/api/v1/users/Thopter)</a>
