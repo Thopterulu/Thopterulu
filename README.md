@@ -6,8 +6,6 @@
 ## 🌱 LifeQuest:
 - 🌱 I’m currently preparing the Certified Kubernetes Administrator (CKA) certification :D
 - 🌱 Then I will prepare Terraform Associate certification
-- I made a website about tips, tricks and stuff on my [https://thopterulu.github.io/](https://thopterulu.github.io/) page, it's very much alpha for now.
-
 
 ## 📊 Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thopterulu&layout=donut)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thopterulu\&rank_icon=github)
