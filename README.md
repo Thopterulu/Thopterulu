@@ -20,7 +20,7 @@
   "name": "Guillaume",
   "honor": 544,
   "clan": "",
-  "leaderboardPosition": 113760,
+  "leaderboardPosition": 113930,
   "skills": [
     "python",
     "lua",
